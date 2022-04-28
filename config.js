@@ -12,5 +12,5 @@ const CONFIG = {
     mess: 'Tớ biết mà 🥰. Love you 300.000 😘😘',
     messDesc: 'ib với tớ luôn nhé ;)',
     btnAccept: 'Okiiiii cậu <3',
-    messLink: 'https://www.facebook.com/huy.le.315428/'
+    messLink: 'https://www.facebook.com/quanghuy.hoang.7921/'
 }
